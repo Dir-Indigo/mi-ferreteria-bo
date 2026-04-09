@@ -6,7 +6,7 @@ import { Phone, Mail, MapPin, Clock, MessageSquare, Camera, Users, Send } from '
 
 export default function ContactPage() {
   const contactInfo = [
-    { icon: Phone, title: 'Teléfono', detail: '+54 9 11 2233 4455', subtitle: 'Llámanos en horario comercial' },
+    { icon: Phone, title: 'Teléfono', detail: '+54 9 69109952', subtitle: 'Llámanos en horario comercial' },
     { icon: Mail, title: 'Email', detail: 'contacto@ferreteria-ind.com', subtitle: 'Respondemos en menos de 24hs' },
     { icon: MapPin, title: 'Ubicación', detail: 'Av. Industrial 1234, Ciudad', subtitle: 'Visita nuestro showroom' },
     { icon: Clock, title: 'Horarios', detail: 'Lun a Vie 8:00 - 18:00', subtitle: 'Sábados 9:00 - 13:00' },
